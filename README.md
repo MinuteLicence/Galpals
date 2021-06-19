@@ -36,7 +36,7 @@
 
 <p>
   From there click add instance and click &quot;import from zip&quot; on the left hand side. Feel free to download
-  <a href="https://www.dropbox.com/s/x3jkjpmzm62f6fr/Gal%20Pal%20Pack.zip?dl=1" target="_blank" target="_blank">
+  <a href="https://www.dropbox.com/s/2m61ptxhkdw0gb9/Gal%20Pal%20Pack.zip?dl=1" target="_blank" target="_blank">
     this zip here
   </a>
 
