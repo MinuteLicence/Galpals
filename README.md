@@ -29,7 +29,7 @@
 <img src="https://wiki.skyfall.tech/download/thumbnails/41910277/mmc006.png?version=1&modificationDate=1588300964677&api=v2" target="_blank">
 
 <p>
-  Now you&#039;re in, click the fluffy kitty at the top, click add and log yourself into Minecraft using your regular login details
+  Now you&#039;re in, click the grey steve head next to the fluffy kitty at the top, click add and log yourself into Minecraft using your regular login details
 </p>
 
 <img src="https://wiki.skyfall.tech/download/attachments/41910277/mmc009.png?version=1&modificationDate=1588302231975&api=v2" target="_blank">
